@@ -1,8 +1,4 @@
 """
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-StudentId: 150906193
-Name: Nadun Ranasinghe
-Email: nadun.ranasinghe@tuni.fi
 
 The Oppenheimer Sequence GUI is an interactive game that challenges players to decipher a 4-digit code before the
 timer runs out. The game is inspired by historical events related to Robert Oppenheimer and his creation,
