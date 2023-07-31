@@ -54,8 +54,4 @@ The game offers an engaging and challenging experience, where the player's intel
 regrettable outcomes. Enjoy the "Oppenheimer Sequence" GUI, and may your intellect become humanity's last hope in
 preventing the bomb's impact!
 
-OMP.CS.100 Ohjelmointi 1 / Programming 1
-StudentId: 150906193
-Name: Nadun Ranasinghe
-Email: nadun.ranasinghe@tuni.fi
 """
