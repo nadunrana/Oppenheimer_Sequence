@@ -1,4 +1,4 @@
-# Oppenheimer Sequence GUI Documentation
+# Oppenheimer Sequence GUI 
 
 The "Oppenheimer Sequence" GUI is a graphical user interface that allows players to play a challenging game where they need to decipher a 4-digit code before the timer runs out. The game is an interactive experience inspired by historical events related to Robert Oppenheimer and his creation, the bomb.
 
